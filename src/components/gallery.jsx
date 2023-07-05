@@ -9,17 +9,21 @@ export const Gallery = (props) => {
         {/* <h2>Your contribution motivate us</h2> */}
           <div className="col-xs-12 col-md-6">
             {" "}
+            <div className="col-md-24 col-md-offset-2 section-title">
+          <h2>Charity does not decrease wealth</h2>
+          </div>
             <img id="nxn" src="img/qr2.jpg" className="img-responsive" alt="" />{" "}
           </div>
-          {/* <div  className="col-xs-12 col-md-6">
-            {" "}
-            <img  src="img/phone.jpg" className="img-responsive" alt="" />{" "}
-          </div> */}
-
-
           <div  className="col-xs-12 col-md-6">
+          
+            {" "}
+            <img id={"pack"} src="img/phone.png" className="img-responsive" alt="" />{" "}
+            
+          </div>
+          
+          {/* <div  className="col-xs-12 col-md-6">
           <div class="wrapper">
-        <h2>Payment Form</h2>
+        <h2>donate with soul</h2>
         <form method="POST">
             <h4>Account</h4>
             <div class="input-group">
@@ -93,7 +97,7 @@ export const Gallery = (props) => {
             </div>
         </form>
     </div>
-    </div>
+    </div> */}
 
 
 

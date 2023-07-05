@@ -9,7 +9,7 @@ export const About = (props) => {
             {" "}
             <img src="img/about.png" className="img-responsive" alt="" />{" "}
           </div>
-          <div className="col-xs-12 col-md-6">
+          <div id="vam" className="col-xs-12 col-md-6">
             <div className="about-text">
               <h2>Who we are?</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
