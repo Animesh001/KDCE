@@ -1,0 +1,126 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "The rural-urban education divide 68% of indian population lives in rural india, so the rural education is of utmost important"
+  },
+  "About": {
+    "paragraph": "Kalyani Devi College of Education KDCE (Trust) is a West Bengal based non-profit organization dedicated to the education of childern with a particular focus on empowering girl childern, and aim to providing opportunities for skill aquisition and growth of young generation of the society",
+    "title": "Kalyani Devi College of Education KDCE (Trust) is a West Bengal based non-profit organization dedicated to the education of childern with a particular focus on empowering girl childern, and aim to providing opportunities for skill aquisition and growth of young generation of the society",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+    
+  },
+  "Features":{
+    "paragraph1":"To promote and impart knowledge, promote moral and spiritual values, inspire creativity and establish social awareness.",
+    "text2":"To initiate, establish and maintain a college/institution for imparting education, conducting research, planning, evaluating, developing and enhancing knowledge and understanding in the field of health care and pharmacy industries.",
+    "text3":"To create and enhance opportunities in the health care industries in general and the State of West Bengal in particular.",
+    "text4":"To train and equip the public to become self-reliant in a dignified and civilized lifestyle so as to develop into good, healthy and progressive citizens.",
+    "text5":"To provide training on job oriented education well recognized by the respective industries in India and abroad."
+  },
+
+  "Vission":{
+    "paragraph1":"We envision a society where education is acessible to all, regardless of socio-economic background.",
+    "text2":"Our vision is to create a non-profit education trust that serves as a beacon of hopes for underserved communities.",
+    "text3":"We strive to provide quality education that empower individuals and transforms lives.",
+    "text4":"Our vision is to bridge the educational gap and ensure equal oppurtunities for every child.",
+    "text5":"Our vision is to collabrate with commodities,stakeholders,and partners to build a strong educational eco-system.",
+    "text6":"Our trust aspires to be acatalyst for positive change in the education landscape."
+  },
+
+  "Services": {
+    
+      "title": "fa fa-wordpress",
+      "body": "Lorem ipsum dolor",
+      "item1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+      "link": "https://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-munni-devis-treatment-550001"
+  },
+  
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+ 
+  "Team": [
+    {
+      "img": "img/team1.jpg",
+      "name": "Manoj Jaiswal",
+      "job": "Chairman/President"
+    },
+    {
+      "img": "img/team3.jpg",
+      "name": "Animesh jaiswal",
+      "job": "Secretary"
+    },
+    {
+      "img": "img/team2.jpg",
+      "name": "Rinki Jaiswal",
+      "job": "Treasurer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Rishikesh Kumar",
+      "job": "Member"
+    }
+  ],
+  "Contact": {
+    "address": "B.M Sarani,Near Rajendra prasad girls high school,Panna sweet,Siliguri-734001 ",
+    "phone": "+91 7602335491, 9312117495",
+    "email": "Kalyanidevicollegeofeducation@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
