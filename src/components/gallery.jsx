@@ -1,11 +1,11 @@
-import { Image } from "./image";
+// import { Image } from "./image";
 import React from "react";
 
 export const Gallery = (props) => {
   return (
     <div id="about">
       <div className="container">
-        <div className="row">
+        <div  className="row">
         {/* <h2>Your contribution motivate us</h2> */}
           <div className="col-xs-12 col-md-6">
             {" "}
@@ -17,8 +17,7 @@ export const Gallery = (props) => {
           <div  className="col-xs-12 col-md-6">
           
             {" "}
-            <img id={"pack"} src="img/phone.png" className="img-responsive" alt="" />{" "}
-            
+            <img  href="#https://donate.stripe.com/bIYdT9cS45AX30AbII" id={"pack"} src="img/phone.png" className="img-responsive" alt="" />{" "}
           </div>
           
           {/* <div  className="col-xs-12 col-md-6">
