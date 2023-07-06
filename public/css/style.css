@@ -742,9 +742,10 @@ body {
 }
 
 @media screen and (max-width: 960px) {
-  article {
+  .article {
     container: card/inline-size;
   }
+
   .article-body p {
     display: none;
   }
@@ -953,3 +954,11 @@ button:hover{
   transform: scale(0.8);
   transition: 1s ease;
   }
+
+
+  /* News */
+ 
+  #news{
+    padding-bottom: 66px;
+  }
+  
